@@ -1,5 +1,4 @@
 # diagramasUML2024-UTUISBO
 # un nuevo cambio
-# un nuevo cambio
 Agregando textoooo
-Agregando textoooo
+Solucionando malos usos y errores al usar git bash
